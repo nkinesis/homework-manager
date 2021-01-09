@@ -1,0 +1,5 @@
+- Botão de cadastro de HW na tela principal
+- Tela de visualização com botões insert, update e delete
+- Tela de cadastro com inclusão/edição apenas
+- Botão de opções na tela principal
+- Tela de opções com save e reset

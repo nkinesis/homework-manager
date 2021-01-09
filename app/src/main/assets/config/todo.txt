@@ -1,0 +1,7 @@
+Todo List:
+v Exibir mensagens de confirmação ao excluir/sair sem salvar
+v Mostrar activity atualizada ao voltar
+v Permitir incluir review (combo)
+v Incluir campo observação
+
+Última atualização: 30-07-2018

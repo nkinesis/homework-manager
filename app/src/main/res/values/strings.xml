@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Homework Correction Manager</string>
+    <string name="hello">Hello World</string>
+    <string name="book">Book</string>
+    <string name="lesson">Lesson</string>
+    <string name="eval">Evaluation</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Remove</string>
+    <string name="archive">Archive</string>
+    <string name="addhw">Add Homework</string>
+    <string-array name="books_array">
+        <item>HW2</item>
+        <item>HW4</item>
+        <item>HW6</item>
+        <item>HW8</item>
+        <item>HW10</item>
+        <item>HW12</item>
+    </string-array>
+
+    <string-array name="evals_array">
+        <item>R</item>
+        <item>G</item>
+        <item>VG</item>
+        <item>GR</item>
+    </string-array>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="about">By Gabriel C. Ullmann, 2018\nullmanng162@gmail.com</string>
+</resources>
